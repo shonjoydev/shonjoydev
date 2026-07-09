@@ -18,8 +18,8 @@ I'm on a structured journey through **Data Structures & Algorithms (DSA)** and *
 
 ## Featured Project
 
-<a href="https://github.com/shonjoydev/computer-science">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shonjoydev&repo=computer-science&theme=default" alt="computer-science" />
+<a href="https://github.com/rsshonjoydas/template">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rsshonjoydas&repo=template&theme=default" alt="dsa-python" />
 </a>
 
 My complete DSA + DAA journey — notes, from-scratch implementations, and solved problems, organized by book and by topic.
@@ -30,6 +30,22 @@ My complete DSA + DAA journey — notes, from-scratch implementations, and solve
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">
+  <a href="https://shonjoy.dev">
+    <img src="https://img.shields.io/badge/portfolio-shonjoy.dev-black?logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/shonjoydev/dsa-python">
+    <img src="https://img.shields.io/badge/repo-computer--science-blue?logo=github" alt="DSA + DAA Vault" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,go,cpp,git,github" alt="Skills: Python, C++, Git, GitHub" />
+  </a>
+</p>
 
 ## GitHub Stats
 
